@@ -2,7 +2,7 @@
 
 This is the blog site for the [OSM Tampa Bay](http://meetup.com/osmtampabay) meetup group.
 
-The blog is setup using [Jekyll]() so that all the content can be out in the open, and so outside contributors can write content on the site by sending pull requests through GitHub. Sorta experimental, but could be fun. The intent is to post content relevant to OSM, the Bay Area, or meetup activities like mapping parties or hacking days.
+The blog is setup using [Jekyll](https://github.com/mojombo/jekyll) so that all the content can be out in the open, and so outside contributors can write content on the site by sending pull requests through GitHub. Sorta experimental, but could be fun. The intent is to post content relevant to OSM, the Bay Area, or meetup activities like mapping parties or hacking days.
 
 ## Contributing
 
