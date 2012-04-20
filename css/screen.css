@@ -164,6 +164,9 @@ blockquote {
 .post {
 	margin-bottom: 25px;
 }
+.post img {
+	margin: 5px 0;
+}
 
 .post-meta {
 	font-size: 0.8em;

@@ -7,7 +7,7 @@ author: Coleman
 author_url: http://shodanlives.com
 ---
 
-My Ignite talk about the OSM Tampa Bay mapping group at WhereCampTB last weekend — and what we’re doing to grow and improve OpenStreetMap in the Bay Area.
+My Ignite talk about the OSM Tampa Bay mapping group at [WhereCampTB](http://wherecamptb.org) last weekend — and what we’re doing to grow and improve OpenStreetMap in the Bay Area.
 
 Join us!
 
