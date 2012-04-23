@@ -12,6 +12,8 @@ categories: page
 
 **[LearnOSM](http://www.learnosm.org/)** &mdash; Documents and how-tos on using QGIS and mapping with JOSM and PotLatch.
 
+**[WalkingPapers](http://walkingpapers.org/)** &mdash; Print out paper maps of OpenStreetMap data, draw and write notes by hand, and upload pics of your maps. WalkingPapers will georeference them to overlay on the map in JOSM to code in your data. Really neat.
+
 ### Using the data
 
 **[TileMill](http://mapbox.com/tilemill/)** &mdash; If you want to take the data and make your own maps, TileMill is a map design studio allowing you to create custom cartography.

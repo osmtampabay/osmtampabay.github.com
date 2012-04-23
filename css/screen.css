@@ -138,8 +138,8 @@ blockquote {
 #sidebar li {
 	padding: 5px 0;
 }
-#sidebar a { color: #cc9604; }
-#sidebar a:hover { color: #727272; }
+#sidebar a { color: #cc9604; background-color: #FFF4DB; padding: 3px; }
+#sidebar a:hover { color: #727272; background-color: #eee; }
 
 #container {
 	margin:0 auto;
