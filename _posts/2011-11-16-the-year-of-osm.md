@@ -4,7 +4,7 @@ date: 2011-11-16 23:43:00 EST
 title: The Year of OpenStreetMap
 categories: blog
 author: Coleman
-author_url: http://shodanlives.com
+author_url: http://colemanm.org
 ---
 
 Mikel Maron's wrapup of the recent OSM Foundation board meeting:

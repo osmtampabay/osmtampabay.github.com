@@ -4,7 +4,7 @@ date: 2011-11-06 12:00:00 EST
 title: Mapping Party at Spatial Networks HQ
 categories: blog
 author: Coleman
-author_url: http://shodanlives.com
+author_url: http://colemanm.org
 ---
 
 <img src="http://farm6.staticflickr.com/5235/7096141717_5211c5543b_o.jpg" />

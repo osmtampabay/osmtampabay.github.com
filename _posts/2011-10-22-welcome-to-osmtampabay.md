@@ -4,7 +4,7 @@ date: 2011-10-22 20:08:00 EST
 title: Welcome to OSM Tampa Bay
 categories: blog
 author: Coleman
-author_url: http://shodanlives.com
+author_url: http://colemanm.org
 ---
 
 <img src="/blog-images/osm-tampabay.png" alt="OSM Tampa Bay" />

@@ -4,7 +4,7 @@ date: 2012-05-07 21:25:59 EST
 title: Mapping meetup in Downtown St. Pete
 categories: blog
 author: Coleman
-author_url: http://shodanlives.com
+author_url: http://colemanm.org
 ---
 
 We've [scheduled another meetup](http://www.meetup.com/osmtampabay/events/63429022/) for next **Saturday, May 19th**. It's been a while since our last _real_ get-together back in December. Since then a few of us hopped onto another meeting that happened back in February at USF, organized by fellow OSMTB member [Ed Hillsman](http://www.meetup.com/osmtampabay/members/8258333/). We had a good time over there, some of us just talked about OSM and messed around in JOSM, while others went out and surveyed some GPS tracks and collected data.

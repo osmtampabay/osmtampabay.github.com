@@ -4,7 +4,7 @@ date: 2011-12-05 12:00:00 EST
 title: TIGER Reviewed, a custom OSM layer
 categories: blog
 author: Coleman
-author_url: http://shodanlives.com
+author_url: http://colemanm.org
 ---
 
 <img src="/blog-images/tiger-reviewed.png" alt="TIGER reviewed layer" />

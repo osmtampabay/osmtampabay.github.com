@@ -20,8 +20,16 @@
       {% include sidebar.html %}
     </div>
     <div id="content">
-      <h2>{{ page.title }}</h2>
-      {{content}}
+      <div class="post">
+        <h2>{{ page.title }}</h2>
+        <div class='post-meta'>
+          <postamble datetime="{{ page.date | date: "%Y-%m-%d" }}">
+            {{ page.date | date: "%b %d, %Y" }} &mdash;
+          </postamble>
+          written by <a rel='author' href='{{ page.author_url }}'>{{ page.author }}</a>
+        </div>
+        <div class="body">{{content}}</div>
+      </div>
     </div>
     
     <div id="footer">
