@@ -7,7 +7,7 @@ author: Coleman
 author_url: http://colemanm.org
 ---
 
-<img src="/blog-images/osm-tampabay.png" alt="OSM Tampa Bay" />
+<img src="/images/blog/osm-tampabay.png" alt="OSM Tampa Bay" />
 
 Welcome to the home of the new **Tampa Bay OpenStreetMap** group!
 

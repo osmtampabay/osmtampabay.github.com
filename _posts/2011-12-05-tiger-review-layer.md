@@ -7,7 +7,7 @@ author: Coleman
 author_url: http://colemanm.org
 ---
 
-<img src="/blog-images/tiger-reviewed.png" alt="TIGER reviewed layer" />
+<img src="/images/blog/tiger-reviewed.png" alt="TIGER reviewed layer" />
 
 Ito World has created a [tiled layer](http://www.itoworld.com/product/data/ito_map/main?view=162&lat=27.885426094854562&lon=-82.55249973052682&zoom=11) showing the status of the [TIGER](http://en.wikipedia.org/wiki/Topologically_Integrated_Geographic_Encoding_and_Referencing) imported road data for the US on OpenStreetMap.
 

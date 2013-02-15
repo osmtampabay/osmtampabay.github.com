@@ -9,7 +9,7 @@ author_url: http://colemanm.org
 
 Learning the OSM editor stack can be complex to newcomers to OpenStreetMap, and even to people familiar with the project. Potlatch is where most new contributors start, since it's the editor built into the OSM website, and accessible right in the browser. But it has limitations to doing extensive, mass editing.
 
-<img src="/blog-images/josm.png" alt="JOSM editor" />
+<img src="/images/blog/josm.png" alt="JOSM editor" />
 
 [JOSM](http://josm.openstreetmap.de/) is the tool of choice for the power user, but it's got quite the learning curve to getting comfortable with it. I've spent a good bit of time learning tons of tricks, like keyboard shortcuts, handy plugins, and techniques that make JOSM the best tool for heavy editing.
 
