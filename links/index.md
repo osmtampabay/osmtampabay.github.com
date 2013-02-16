@@ -14,6 +14,8 @@ categories: page
 
 **[WalkingPapers](http://walkingpapers.org/)** &mdash; Print out paper maps of OpenStreetMap data, draw and write notes by hand, and upload pics of your maps. WalkingPapers will georeference them to overlay on the map in JOSM to code in your data. Really neat.
 
+**[Keepright](http://keepright.at/report_map.php?zoom=11&lat=27.88232&lon=-82.67811)** &mdash; Tampa Bay area map data issues from KeepRight.at. Good place to find things to fix in OSM.
+
 ### Using the data
 
 **[TileMill](http://mapbox.com/tilemill/)** &mdash; If you want to take the data and make your own maps, TileMill is a map design studio allowing you to create custom cartography.
