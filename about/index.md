@@ -22,4 +22,4 @@ Have an idea you want to present to the group? Sure! Is there a tool or techniqu
 
 ### Okay, I’m sold. How can I join the club?
 
-Anyone can join in and participate for free! Just head over to our [Meetup](http://meetup.com/osmtampabay) page, join, and RSVP to a scheduled meeting.
+Anyone can join in and participate for free! Just head over to our [Meetup](http://meetup.com/osmtampabay) page, join, and RSVP to the next meetup.
