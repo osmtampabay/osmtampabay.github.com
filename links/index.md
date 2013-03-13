@@ -16,6 +16,8 @@ categories: page
 
 **[Keepright](http://keepright.at/report_map.php?zoom=11&lat=27.88232&lon=-82.67811)** &mdash; Tampa Bay area map data issues from KeepRight.at. Good place to find things to fix in OSM.
 
+**[Compare](http://osmtampabay.org/compare)** &mdash; Compare OSM to Google Maps. Helps to find gaps and unedited areas.
+
 ### Using the data
 
 **[TileMill](http://mapbox.com/tilemill/)** &mdash; If you want to take the data and make your own maps, TileMill is a map design studio allowing you to create custom cartography.
