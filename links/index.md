@@ -18,6 +18,8 @@ categories: page
 
 **[Compare](http://osmtampabay.org/compare)** &mdash; Compare OSM to Google Maps. Helps to find gaps and unedited areas.
 
+**[mapmote](https://github.com/tmcw/mapmote)** &mdash; Slick tool for opening areas in OpenStreetMap in JOSM from browsing a web map. Powertool for power editors.
+
 ### Using the data
 
 **[TileMill](http://mapbox.com/tilemill/)** &mdash; If you want to take the data and make your own maps, TileMill is a map design studio allowing you to create custom cartography.
