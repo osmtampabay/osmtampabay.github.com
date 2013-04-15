@@ -66,6 +66,7 @@ blockquote {
 #content ul {
   padding-left: 0;
   margin-left: 20px;
+  list-style-type: none;
 }
 #content li {
   padding-left: 22px;
