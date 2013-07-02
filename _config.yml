@@ -1,6 +1,4 @@
-auto:         true
-lsi:          true
-server_port:  4000
+port:  4002
 permalink:    /blog/:title/
 url:          http://osmtampabay.org/
 pygments:     true
