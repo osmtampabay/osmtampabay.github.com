@@ -9,7 +9,7 @@ author_url: http://colemanm.org
 
 One of the neatest things to see on OpenStreetMap, something that truly makes the map look rich and detailed, are buildings. They add tons of context and visual presentation quality to the data. And used in conjunction with [Pushpin](http://pushpinosm.org/) in the field, the footprints become the "base" for adding other details like height, floors, addresses, and businesses. The trouble is, mass editing building footprints is pretty tedious, and lots of buildings are complex shapes that can be painstaking to trace.
 
-This short guide shows a couple of tools you can use within JOSM to make tracing detailed buildings much more simple.
+This short guide shows a couple of tools you can use within [JOSM](http://josm.openstreetmap.de/) to make tracing detailed buildings much more simple.
 
 Once you have JOSM running, go to the Preferences &rarr; Plugins tab. You'll need to install the [BuildingsTools](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/BuildingsTools) plugin to make the initial tracing faster than simply drawing ways. The building tool (keyboard shortcut: `b`) is instrumental in fast tracing, and using that in concert with the **Extrude** tool (shortcut: `x`) can ramp up speed in tracing.
 
