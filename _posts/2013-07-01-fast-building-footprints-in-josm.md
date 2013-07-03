@@ -11,7 +11,7 @@ One of the neatest things to see on OpenStreetMap, something that truly makes th
 
 This short guide shows a couple of tools you can use within JOSM to make tracing detailed buildings much more simple.
 
-Once you have JOSM running, go to the Preferences -> Plugins tab. You'll need to install the [BuildingsTools](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/BuildingsTools) plugin to make the initial tracing faster than simply drawing ways. The building tool (keyboard shortcut: `b`) is instrumental in fast tracing, and using that in concert with the **Extrude** tool (shortcut: `x`) can ramp up speed in tracing.
+Once you have JOSM running, go to the Preferences &rarr; Plugins tab. You'll need to install the [BuildingsTools](http://wiki.openstreetmap.org/wiki/JOSM/Plugins/BuildingsTools) plugin to make the initial tracing faster than simply drawing ways. The building tool (keyboard shortcut: `b`) is instrumental in fast tracing, and using that in concert with the **Extrude** tool (shortcut: `x`) can ramp up speed in tracing.
 
 This video shows how to use the extrusion tool to quickly and accurately extract these buildings:
 
