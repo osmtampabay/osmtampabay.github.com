@@ -1,4 +1,5 @@
-port:  4002
-permalink:    /blog/:title/
-url:          http://osmtampabay.org/
-pygments:     true
+port: 4002
+permalink: /blog/:title/
+url: http://osmtampabay.org/
+pygments: true
+markdown: kramdown
