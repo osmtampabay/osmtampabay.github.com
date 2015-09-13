@@ -1,17 +1,14 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
    <meta charset="utf-8" />
-   <title>{{ page.title }}</title>
+   <title>{% if page.title %}{{ page.title }} | {% endif %} OSM Tampa Bay</title>
    <meta name="author" content="OSM Tampa Bay" />
-   <link href="http://feeds.feedburner.com/osmtampabay" rel="alternate" title="OSM Tampa Bay" type="application/atom+xml" />
-
+   {% feed_meta %}
    <link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen, projection" />
    <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
    <link href='http://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
-
    {% include google-analytics.html %}
-
 </head>
 
 <body>
