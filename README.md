@@ -8,4 +8,6 @@ The blog is setup using [Jekyll](https://github.com/mojombo/jekyll) so that all 
 
 In the `_posts` directory, create a new post similar to the existing ones with a filename like `2012-03-31-post-name.md`. The content is then simply written in Markdown, saved, committed, and pushed back into master. The only other caveat is adding the YAML front-matter at the top of the `.md` file, containing the date, title, and author info.
 
+Image width: 500px
+
 Have at it!

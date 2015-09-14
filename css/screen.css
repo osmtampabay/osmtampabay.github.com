@@ -66,6 +66,7 @@ blockquote {
 #content ul {
   padding-left: 0;
   margin-left: 20px;
+  list-style-type: none;
 }
 #content li {
   padding-left: 22px;
@@ -99,6 +100,9 @@ blockquote {
 }
 #sidebar p {
   font: 15px/18px 'PT Sans', sans-serif;
+}
+#sidebar ul {
+  list-style-type: none;
 }
 #sidebar li {
   padding: 5px 0;

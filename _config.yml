@@ -1,6 +1,12 @@
-auto:         true
-lsi:          true
-server_port:  4000
-permalink:    /blog/:title/
-url:          http://osmtampabay.org/
-pygments:     true
+title: OSM Tampa Bay
+name: OSM Tampa Bay
+description: Blog for the Tampa Bay OpenStreetMap contributors group
+port: 4002
+permalink: /blog/:title/
+relative_permalinks: false
+url: http://www.osmtampabay.org
+markdown: kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
